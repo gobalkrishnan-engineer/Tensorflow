@@ -158,6 +158,74 @@ Boston Housing price regression dataset
 
 ------
 
+Xception
+
+EfficientNet B0 to B7
+
+EfficientNetV2 B0 t0 B3 and S, M, L
+
+VGG16 and VGG19
+
+ResNet and ResNetV2
+
+MobileNet, MobileNetV2, and MobileNetV3 
+
+DenseNet
+
+NasNetLarge and NasNetMobile
+
+InceptionV3
+
+InceptionResNetV2
+
+---------------
+
+Mixed precision policy API
+
+LossScaleOptimizer
+
+------
+
+Model plotting utilities
+
+Serialization utilities
+
+Python & Numpy utilities
+
+Backend utilities
+
+-------
+
+HyperParameters
+
+Tuners 
+
+Oracles
+
+HyperModels
+
+-------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
