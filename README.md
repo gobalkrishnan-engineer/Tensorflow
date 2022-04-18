@@ -553,6 +553,55 @@ ThresholdedReLU layer
 
 ----
 
+TextVectorization layer
+
+----
+
+Normalization layer
+
+Discretization layer
+
+-----
+
+CategoryEncoding layer
+
+Hashing layer
+
+StringLookup layer
+
+IntegerLookup layer
+
+-----
+
+Resizing layer
+
+Rescaling layer
+
+CenterCrop layer
+
+------
+
+RandomCrop layer
+
+RandomFlip layer
+
+RandomTranslation layer
+
+RandomRotation layer
+
+RandomZoom layer
+
+RandomHeight layer
+
+RandomWidth layer
+
+RandomContrast layer 
+
+----
+
+
+
+
 
 
 
