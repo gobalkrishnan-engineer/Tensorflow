@@ -599,6 +599,376 @@ RandomContrast layer
 
 ----
 
+Accuracy class
+
+BinaryAccuracy class
+
+CategoricalAccuracy class
+
+SparseCategoricalAccuracy class
+
+TopKCategoricalAccuracy class
+
+SparseTopKCategoricalAccuracy class 
+
+-----
+
+BinaryCrossentropy class
+
+CategoricalCrossentropy class
+
+SparseCategoricalCrossentropy class 
+
+KLDivergence class
+
+Poisson class
+
+------
+
+MeanSquaredError class 
+
+RootMeanSquaredError class 
+
+MeanAbsoluteError class 
+
+MeanAbsolutePercentageError class 
+
+MeanSquaredLogarithmicError class 
+
+CosineSimilarity class 
+
+LogCoshError class 
+
+-----
+
+AUC class
+
+Precision class 
+
+Recall class 
+
+TruePositives class
+
+TrueNegatives class 
+
+FalsePositives class
+
+FalseNegatives class 
+
+PrecisionAtRecall class 
+
+SensitivityAtSpecificity class 
+
+SpecificityAtSensitivity class 
+
+----
+
+MeanIoU class
+
+----
+
+Hinge class 
+
+SquaredHinge class
+
+CategoricalHinge class 
+
+----
+
+BinaryCrossentropy class
+
+CategoricalCrossentropy class
+
+SparseCategoricalCrossentropy class
+
+Poisson class 
+
+binary_crossentropy function
+
+categorical_crossentropy function 
+
+sparse_categorical_crossentropy function 
+
+possion function
+
+KLDivergence class 
+
+kl_divergence function
+
+-----
+
+MeanSquaredError class 
+
+MeanAbsoluteError class
+
+MeanAbsolutePercentageError class 
+
+MeanSquaredLogarithmicError class 
+
+CosineSimilarity class 
+
+mean_squared_error function
+
+mean_absolute_error function 
+
+mean_absolute_percentage_error function
+
+mean_absolute_logarithmic_error function
+
+cosine_similarity function
+
+Huber class
+
+huber function
+
+LogCosh class 
+
+log_cosh function 
+
+-------------
+
+Hinge class 
+
+SquaredHinge class 
+
+CategoricalHinge class 
+
+hinge function
+
+squared_hinge function 
+
+categorical_hinge function
+
+-------
+
+image_dataset_from_directory function
+
+load_img function
+
+img_to_array function
+
+save_img function 
+
+-----
+
+timeseries_dataset_from_array function
+
+------
+
+text_dataset_from_directory function
+
+--------
+
+load_data function
+
+------
+
+get_word_index function
+
+---
+
+Xception
+
+VGG16
+
+VGG19
+
+ResNet50
+
+ResNet50V2
+
+ResNet101
+
+ResNet101V2
+
+ResNet152
+
+ResNet152V2
+
+InceptionV3
+
+InceptionResNetV2
+
+MobileNet
+
+MobileNetV2
+
+DenseNet121
+
+DenseNet169
+
+DenseNet201
+
+NasNetMobile
+
+NasNetLarge
+
+EfficientNetB0
+
+EfficientNetB1
+
+EfficientNetB2
+
+EfficientNetB3
+
+EfficientNetB4
+
+EfficientNetB5
+
+EfficientNetB6
+
+EfficientNetB7
+
+EfficientNetV2B0
+
+EfficientNetV2B1
+
+EfficientNetV2B2
+
+EfficientNetV2B3
+
+EfficientNetV2S
+
+EfficientNetV2M
+
+EfficientNetV2L
+
+------
+
+Policy class
+
+global_policy function
+
+set_global_policy function
+
+------
+
+LossScaleOptimizer class
+
+-------
+
+plot_model function
+
+model_to_dot function
+
+-------
+
+custom_object_scope class
+
+get_custom_objects function
+
+register_keras_serializable function
+
+serialize_keras_object function
+
+deserialize_keras_object function
+
+-------
+
+set_random_seed function
+
+to_categorical function
+
+normalize function
+
+get_file function 
+
+Progbar class 
+
+Sequence class 
+
+-------
+
+clear_session function
+
+floatx function
+
+set_floatx function 
+
+image_data_format function
+
+set_image_data_format function
+
+epsilon function
+
+set_epsilon function 
+
+is_keras_tensor function
+
+get_uid function 
+
+rnn function
+
+------
+
+HyperParameter class
+
+Boolean method
+
+Choice method 
+
+Fixed method 
+
+Float method 
+
+Int method 
+
+condition_scope method 
+
+get method 
+
+------------
+
+The base Tuner class 
+
+RandomSearch Tuner 
+
+BayesianOptimization Tuner 
+
+Hyperband Tuner 
+
+Sklearn Tuner 
+
+---------
+
+The base Oracle class 
+
+RandomSearch Oracle
+
+BayesianOptimization Oracle 
+
+Hyperband Oracle 
+
+-----
+
+The base HyperModel class 
+
+HyperResNet
+
+HyperXception
+
+------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
