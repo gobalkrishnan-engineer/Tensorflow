@@ -1,3 +1,5 @@
+# API reference 
+
 1. Clustering package  - (scipy.cluster)
 2. K-means clustering and vector quantization - (scipy.cluster.vq) 
 3. Hierarchical clustering (scipy.cluster.hierarchy)
@@ -32,3 +34,20 @@
 32. Quasi-Monte Carlo submodule (scipy.stats.qmc)
 33. Random Number Generators (scipy.stats.sampling)
 34. Low-level callback function
+
+# Scipy User Guide
+
+1. Introduction
+2. Special functions (scipy.special)
+3. Integration (scipy.integrate)
+4. Optimization (scipy.optimize)
+5. Interpolation (scipy.interpolate)
+6. Fourier Transforms (scipy.fft)
+7. Signal Processing (scipy.signal)
+8. Linear Algebra (scipy.linalg)
+9. Sparse eigenvalue problems with ARPACK
+10. Compressed Sparse Graph Routines (scipy.sparse.csgraph)
+11. Spatial data structures and algorithms (scipy.spatial)
+12. Statistics (scipy.stats)
+13. Multidimensional image processing (scipy.ndimage)
+14. File IO (scipy.io)
